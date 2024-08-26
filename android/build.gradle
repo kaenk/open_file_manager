@@ -43,4 +43,5 @@ android {
     defaultConfig {
         minSdkVersion 20
     }
+    namespace 'com.kaede.open_file_manager'
 }
